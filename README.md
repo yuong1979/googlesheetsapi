@@ -1,4 +1,4 @@
-# Sample flask project with docker and GCP deployment ready 
+# Sample google sheets project with docker 
 
 **Clone project**
 
