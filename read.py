@@ -7,7 +7,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from google.oauth2 import service_account
 
-SERVICE_ACCOUNT_FILE = 'keys.json'
+SERVICE_ACCOUNT_FILE = 'googlesheetsapi-keys.json'
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']

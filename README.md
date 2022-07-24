@@ -22,7 +22,7 @@
 
 `pip install -r requirements.txt`
 
-Create a service account, create a new google sheets api, create a keys.json and leave it in the main folder
+Create a service account, create a new google sheets api, create a googlesheetsapi-keys.json and leave it in the main folder
 
 ### Deploy on local without docker
 
